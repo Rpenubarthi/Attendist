@@ -1,0 +1,6 @@
+framework module Pods_Attendist_AttendistUITests {
+  umbrella header "Pods-Attendist-AttendistUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
